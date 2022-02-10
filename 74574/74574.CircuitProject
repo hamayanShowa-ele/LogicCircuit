@@ -4,7 +4,7 @@
 		<lc:ProjectId>649d3c1f-5a7f-4491-bf14-c383c895b87f</lc:ProjectId>
 		<lc:Name>回路プロジェクト</lc:Name>
 		<lc:Zoom>1.4561797752809</lc:Zoom>
-		<lc:LogicalCircuitId>c8c420cd-20e1-476f-9da5-c049b096bbee</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>4306704c-d744-4a64-a07b-9d325c2baec2</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>c8c420cd-20e1-476f-9da5-c049b096bbee</lc:LogicalCircuitId>
@@ -36,6 +36,7 @@
 		<lc:LogicalCircuitId>4306704c-d744-4a64-a07b-9d325c2baec2</lc:LogicalCircuitId>
 		<lc:Name>74HC574</lc:Name>
 		<lc:Notation>574</lc:Notation>
+		<lc:Category>REGISTER</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:Pin>
 		<lc:PinId>46155eda-45e3-4cd8-bfc6-fb1d37634b1f</lc:PinId>
