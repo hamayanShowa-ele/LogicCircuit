@@ -1,0 +1,8 @@
+# git ignore file
+# designed by hamayan.
+
+# not need *.hoge
+# *.bak
+
+# not need rescue-backup folder
+# hoge/
