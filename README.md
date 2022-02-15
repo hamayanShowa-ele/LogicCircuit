@@ -16,3 +16,4 @@ Put the logic simulator project available at LogicCircuit here.
 #74HC4511
 #74HC138
 #74HC139
+#74HC595
